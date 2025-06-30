@@ -85,6 +85,14 @@ export const links = [
     icon: 'BarChart2',
     description: 'Check your Andhra University exam results online.'
   },
+  {
+    id: 'student-login',
+    title: 'Student Login',
+    url: 'https://exams.andhrauniversity.edu.in/student-portal/login.php',
+    category: 'academics',
+    icon: 'LogIn',
+    description: 'Access your student portal for academic records and services.'
+  },
 
   // Library & Learning
   {
@@ -234,12 +242,12 @@ export const links = [
     description: 'Official Facebook page of Andhra University.'
   },
   {
-    id: 'twitter',
-    title: 'AU Twitter',
-    url: 'https://x.com/ANDHRAUNIVERSITY',
+    id: 'gmail',
+    title: 'AU Gmail Contact',
+    url: 'mailto:support@andhrauniversity.edu.in',
     category: 'contact',
-    icon: 'Twitter',
-    description: 'Official Twitter handle of Andhra University.'
+    icon: 'Mail',
+    description: 'Contact Andhra University via email.'
   },
   {
     id: 'instagram',
